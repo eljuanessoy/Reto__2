@@ -1,7 +1,7 @@
 # Reto__2
 By Juan Esteban Molina Rey (eljuanessoy)
 
-### En este diagrama de clases decidi represe3ntar un partido de basketball. En el diagrama podemos ver las relaciones con las que cuenta un partido, como lo serian los equipos, la cancha, las reglas, entre otras.
+### En este diagrama de clases decidi representar un partido de basketball. En el diagrama podemos ver las relaciones con las que cuenta un partido, como lo serian los equipos, la cancha, las reglas, entre otras.
 
 - El Partido tiene una duración definida por la clase Tiempo, está regido por las Reglas y cuenta con una Cancha.
 - Los Jugadores interactúan usan el Uniforme.
